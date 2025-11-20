@@ -1,0 +1,22 @@
+[
+{"id": 1, "kaomoji": "(＾▽＾)", "description": "happy", "tags": ["happy","smile"]},
+{"id": 2, "kaomoji": "(╯°□°）╯︵ ┻━┻", "description": "table flip", "tags": ["angry","meme"]},
+{"id": 3, "kaomoji": "(｡•́︿•̀｡)", "description": "sad", "tags": ["sad","upset"]},
+{"id": 4, "kaomoji": "(=^･ω･^=)", "description": "cat face", "tags": ["cute","cat"]},
+{"id": 5, "kaomoji": "(；一_一)", "description": "skeptical", "tags": ["skeptical","meh"]},
+{"id": 6, "kaomoji": "(╥﹏╥)", "description": "crying", "tags": ["cry","sad"]},
+{"id": 7, "kaomoji": "٩(◕‿◕)۶", "description": "excited", "tags": ["happy","excited"]},
+{"id": 8, "kaomoji": "(¬_¬)", "description": "side eye", "tags": ["annoyed","skeptical"]},
+{"id": 9, "kaomoji": "(ʘ‿ʘ)", "description": "surprised", "tags": ["surprised"]},
+{"id": 10, "kaomoji": "(づ｡◕‿‿◕｡)づ", "description": "hug", "tags": ["hug","cute"]},
+{"id": 11, "kaomoji": "(¬‿¬)", "description": "flirty/sly", "tags": ["flirty","sly"]},
+{"id": 12, "kaomoji": "(✿◠‿◠)", "description": "sweet", "tags": ["cute","friendly"]},
+{"id": 13, "kaomoji": "╮(╯▽╰)╭", "description": "shrug", "tags": ["shrug","idk"]},
+{"id": 14, "kaomoji": "(ಥ﹏ಥ)", "description": "tears", "tags": ["cry","sad"]},
+{"id": 15, "kaomoji": "(•̀ᴗ•́)و", "description": "determined", "tags": ["motivated","fight"]},
+{"id": 16, "kaomoji": "ヽ(｡◕o◕｡)ﾉ", "description": "welcoming", "tags": ["hello","excited"]},
+{"id": 17, "kaomoji": "(ง'̀-'́)ง", "description": "fighting stance", "tags": ["fight","ready"]},
+{"id": 18, "kaomoji": "(¬‿¬)✧", "description": "mischievous", "tags": ["mischief"]},
+{"id": 19, "kaomoji": "(•_•) ( •_•)>⌐■-■ (⌐■_■)", "description": "deal with it", "tags": ["cool","meme"]},
+{"id": 20, "kaomoji": "(◕‿◕)", "description": "cute smile", "tags": ["cute","smile"]}
+]
